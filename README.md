@@ -11,7 +11,7 @@ Replace your_secret_key_here with a strong, secure secret key used for signing J
 Ensure that the server is able to read environment variables by using the dotenv package (which should already be included in the server dependencies).
 
 
-
+---
 
 
 🚀 Server Setup
