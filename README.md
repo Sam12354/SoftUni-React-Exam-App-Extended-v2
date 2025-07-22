@@ -45,7 +45,7 @@ npm run dev
 🔥 Both server and client run with npm run dev — make sure to start both for full functionality!
 
 
-
+---
 
 
 
