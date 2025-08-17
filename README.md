@@ -64,3 +64,39 @@ This project now includes a real-time Live Chat functionality that allows users 
     Seamless integration: The live chat works smoothly alongside the existing app features without interrupting user flow.
 
 This addition enhances the user experience by enabling live interaction and community engagement directly within the app.
+
+
+---
+
+
+Core Features
+
+    User Authentication:
+    
+    Register, Login, Logout
+    
+    Change password functionality
+    
+    Form validation with real-time feedback (e.g., fields turn red on incorrect input)
+    
+    CRUD Operations:
+    
+    Create, Read, Update, Delete content/items
+    
+    Fully functional with proper validation and error handling
+    
+    User Interaction:
+    
+    Comments and reviews on products
+    
+    Personalized user space/dashboard to manage products
+    
+    Live Chat (v2 feature):
+    
+    Real-time messaging between users using Socket.io
+    
+    Persistent chat history
+    
+    Responsive Design:
+    
+    Works well on desktop and mobile devices
